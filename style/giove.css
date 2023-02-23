@@ -1,0 +1,23 @@
+main {
+    background: url('https://a-static.besthdwallpaper.com/dark-galaxy-wallpaper-2160x1440-55224_40.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: inline-block;
+}
+
+a {
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
